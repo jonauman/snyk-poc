@@ -1,0 +1,5 @@
+.snyk
+.terraform
+.terraform.lock.hcl
+*.tfplan
+*.json
